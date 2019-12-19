@@ -1,0 +1,55 @@
+{
+    "name": "American Express",
+    "description": "The American Express Company, also known as Amex, is an American multinational financial services corporation headquartered in Three World Financial Center in New York City.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28740-developer-americanexpress-com.jpg",
+    "tags": [
+        "financial",
+        "financial services",
+        "have api",
+        "payments",
+        "profile"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/american-express\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "American Express",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28740-developer-americanexpress-com.jpg",
+            "humanURL": "https:\/\/developer.americanexpress.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/american-express-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/americanexpress"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/developer.americanexpress.com\/documentation#getting-started"
+        },
+        {
+            "type": "Support",
+            "url": "https:\/\/developer.americanexpress.com\/support\/faq"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/AmericanExpress"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/developer.americanexpress.com"
+        }
+    ]
+}
